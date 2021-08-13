@@ -1,0 +1,7 @@
+2
+9
+abaaabbaa
+aaaaaabaa
+3
+aaa
+aab
